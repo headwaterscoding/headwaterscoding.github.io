@@ -1,0 +1,40 @@
+            html,body {
+                margin:0;
+                padding:0;               
+                font-family: "Helvetica Neue", Arial, sans-serif;
+            
+        	}
+             #coding{
+                text-align:center;
+                font-family:"Futura",sans-serif;
+                color: rgb(35, 100, 103);
+            }
+
+           	nav{
+            	background-color:green;
+            	text-align:center;
+           	} 
+           	nav ul{
+            	margin:0;
+            	padding:0;
+           }
+
+          nav li{
+            	list-style:none;
+            	display:inline-block;
+            	padding:10px;
+          	}
+
+          nav a{
+                text-decoration:none;
+                color:hotpink;
+                padding:8px;
+                font-size:18px;
+            }
+
+ 
+            nav li:hover{
+                background-color:blue;
+
+            }
+            
